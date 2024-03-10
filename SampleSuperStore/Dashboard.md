@@ -34,7 +34,7 @@ This repository contains the code and insights from an in-depth Exploratory Data
 - **Sales by Category:**
   - Technology: $836.15k
   - Furniture: $742k
-  - Office Supplies: $715k
+  - Office Supplies: $719k
 - **Sales by Sub-Category:**
   - Highest Sales: Phones, Chairs, Storage
   - Lowest Sales: Fasteners
@@ -87,10 +87,6 @@ git clone https://github.com/your_username/superstore-eda.git
 
 Contributions are welcome! Feel free to open issues, propose new features, or submit pull requests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 
