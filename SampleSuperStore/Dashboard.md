@@ -1,7 +1,5 @@
 # Exploratory Data Analysis (EDA) - Superstore Dataset
 
-<img width="633" alt="image" src="https://github.com/Ayushmi-Adh/The-Sparks-Foundation-Projects/assets/132826306/43d35e69-bae8-47e3-8f59-44c6a6a51657">
-
 ## Overview
 
 This repository contains the code and insights from an in-depth Exploratory Data Analysis (EDA) performed on the Superstore dataset. The analysis focuses on understanding sales, profit, and other key metrics to derive actionable insights for business optimization.
@@ -54,7 +52,7 @@ This repository contains the code and insights from an in-depth Exploratory Data
 
 ## Interactive Dashboard
 
-![Dashboard Image](link_to_dashboard_image)
+<img width="633" alt="image" src="https://github.com/Ayushmi-Adh/The-Sparks-Foundation-Projects/assets/132826306/43d35e69-bae8-47e3-8f59-44c6a6a51657">
 
 An interactive dashboard has been implemented, allowing users to explore data with filters for category, sub-category, and region.
 
