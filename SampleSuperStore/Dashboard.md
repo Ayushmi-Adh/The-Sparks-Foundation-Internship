@@ -71,19 +71,8 @@ An interactive dashboard has been implemented, allowing users to explore data wi
 4. **Dynamic Pricing Strategy:**
    - Reevaluate the overall discount strategy. Implement dynamic pricing strategies based on market demand and competitor pricing.
 
-## How to Use
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/your_username/superstore-eda.git
-```
-
-2. Open the Jupyter Notebook or Python script to explore the code and findings.
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues, propose new features, or submit pull requests.
 
 
 
