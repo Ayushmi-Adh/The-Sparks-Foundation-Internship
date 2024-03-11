@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Ayushmi-Adh/The-Sparks-Foundation-Projects/assets/132826306/9b621816-1d5b-4b4e-870a-d132592a8e5e" width="100">
 
-## Overview
+## Overview :
 
 This repository contains my internship projects as a Data Science and Business Analytics intern at The Sparks Foundation. The projects focus on leveraging data science techniques to gain insights and make data-driven decisions for business optimization.
 
