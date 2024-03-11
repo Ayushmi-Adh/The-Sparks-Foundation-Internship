@@ -1,6 +1,6 @@
 # Sparks Foundation Internship Projects
 
-![logo](https://github.com/Ayushmi-Adh/The-Sparks-Foundation-Projects/assets/132826306/9b621816-1d5b-4b4e-870a-d132592a8e5e | width=100)
+![logo](https://github.com/Ayushmi-Adh/The-Sparks-Foundation-Projects/assets/132826306/9b621816-1d5b-4b4e-870a-d132592a8e5e |width=100)
 
 ## Overview
 
