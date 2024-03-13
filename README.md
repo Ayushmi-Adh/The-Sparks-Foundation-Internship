@@ -6,7 +6,7 @@
 
 This repository contains my internship projects as a Data Science and Business Analytics intern at The Sparks Foundation. The projects focus on leveraging data science techniques to gain insights and make data-driven decisions for business optimization.
 
-## Project Details
+## Project Details:
 
 - **Internship Role:** Data Science and Business Analytics Intern
 - **Organization:** The Sparks Foundation
@@ -17,24 +17,24 @@ This repository contains my internship projects as a Data Science and Business A
 - **Project Topic:** Exploratory Data Analysis (EDA) - Superstore Dataset
 
 
-#### Key Contributions
+#### Key Contributions:
 
 - Conducted in-depth analysis on the Superstore dataset.
 - Uncovered insights related to sales, profit, and regional performance.
 - Developed an interactive dashboard for exploring data trends.
 
-### Project 2: Prediction Using Supervised Learning
+### Project 2: Prediction Using Supervised Learning:
 
 - **Project Topic:** Prediction Using Supervised Learning
 
 
-#### Key Contributions
+#### Key Contributions:
 
 - Implemented Linear Regression for score prediction based on study hours.
 - Visualized the dataset, regression line, and learning curve for model evaluation.
 - Evaluated the model using metrics such as Mean Absolute Error, Mean Squared Error, and R-squared.
 
-## Repository Structure
+## Repository Structure:
 
 - **`Project_1_Superstore_EDA`:** Folder containing code and documentation for the Superstore EDA project.
 - **`Project_2_Supervised_Learning`:** Folder containing code and documentation for the Supervised Learning project.
