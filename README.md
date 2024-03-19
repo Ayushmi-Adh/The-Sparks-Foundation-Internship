@@ -40,7 +40,7 @@ This repository contains my internship projects as a Data Science and Business A
 - **`Project_2_Supervised_Learning`:** Folder containing code and documentation for the Supervised Learning project.
 - **`assets`:** Folder containing images and assets used in the README.
 
-## Instructions
+## Instructions:
 
 - Navigate to the respective project folders for detailed information, code, and results.
 - Feel free to explore and provide feedback or suggestions.
