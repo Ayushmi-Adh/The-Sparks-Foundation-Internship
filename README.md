@@ -19,7 +19,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 #### Key Contributions:
 
-- Conducted in-depth analysis on the Superstore dataset.
+- Conducted in-depth analysis of the Superstore dataset.
 - Uncovered insights related to sales, profit, and regional performance.
 - Developed an interactive dashboard for exploring data trends.
 
