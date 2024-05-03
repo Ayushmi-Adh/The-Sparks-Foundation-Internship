@@ -12,7 +12,7 @@ This repository contains my internship projects as a Data Science and Business A
 - **Organization:** The Sparks Foundation
 - **Internship Duration:** 1 month
 
-### Project 1: Exploratory Data Analysis (EDA) - Superstore Dataset
+### Project 1: Exploratory Data Analysis (EDA) - Superstore Dataset:
 
 - **Project Topic:** Exploratory Data Analysis (EDA) - Superstore Dataset
 
