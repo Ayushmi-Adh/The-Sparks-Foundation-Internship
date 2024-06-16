@@ -10,7 +10,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 - **Internship Role:** Data Science and Business Analytics Intern.
 - **Organization:** The Sparks Foundation.
-- **Internship Duration:** 1 month.
+- **Internship Duration:** 1 month..
 
 ### Project 1: Exploratory Data Analysis (EDA) - Superstore Dataset:
 
