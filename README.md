@@ -14,7 +14,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 ### Project 1: Exploratory Data Analysis (EDA) - Superstore Dataset:
 
-- **Project Topic:** Exploratory Data Analysis (EDA) - Superstore Dataset
+- **Project Topic:** Exploratory Data Analysis (EDA) - Superstore Dataset:
 
 
 #### Key Contributions:
