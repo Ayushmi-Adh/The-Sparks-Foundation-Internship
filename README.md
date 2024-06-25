@@ -25,7 +25,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 ### Project 2: Prediction Using Supervised Learning:
 
-- **Project Topic:** Prediction Using Supervised Learning
+- **Project Topic:** Prediction Using Supervised Learning.
 
 
 #### Key Contributions:
