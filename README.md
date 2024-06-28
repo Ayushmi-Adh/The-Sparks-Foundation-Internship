@@ -21,7 +21,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 - Conducted in-depth analysis of the Superstore dataset.
 - Uncovered insights related to sales, profit, and regional performance.
-- Developed an interactive dashboard for exploring data trends.
+- Developed an interactive dashboard for exploring data trends..
 
 ### Project 2: Prediction Using Supervised Learning:
 
