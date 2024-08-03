@@ -32,7 +32,7 @@ This repository contains my internship projects as a Data Science and Business A
 
 - Implemented Linear Regression for score prediction based on study hours.
 - Visualized the dataset, regression line, and learning curve for model evaluation.
-- Evaluated the model using metrics such as Mean Absolute Error, Mean Squared Error, and R-squared.
+- Evaluated the model using metrics such as Mean Absolute Error, Mean Squared Error, and R-squared..
 
 ## Repository Structure:
 
