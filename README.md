@@ -4,7 +4,7 @@
 
 ## Overview :
 
-This repository contains my internship projects as a Data Science and Business Analytics intern at The Sparks Foundation. The projects focus on leveraging data science techniques to gain insights and make data-driven decisions for business optimization.
+This repository contains my internship projects as a Data Science and Business Analytics intern at The Sparks Foundation. The projects focus on leveraging data science techniques to gain insights and make data-driven decisions for business optimization....
 
 ## Project Details:
 
